@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gezegenlerApp</string>
+    <string name="kilo_hint">Dünyadaki Kilonu Gir</string>
+    <string name="seçimtext">Bir Gezegen Seç!</string>
+    <string name="mars">Mars</string>
+    <string name="venus">Venüs</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="baslik">Gezegenlerdeki Kilonu Bulmak İster Misin?</string>
+    <string name="planetpicture">planetPicture</string>
+    <string name="sonuc">SONUC</string>
+</resources>
